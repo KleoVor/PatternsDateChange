@@ -1,4 +1,4 @@
-package ru.netology.PatternsDataChange.Test;
+package ru.netology.patternsdatachange.test;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
@@ -6,7 +6,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.Keys;
-import ru.netology.PatternsDataChange.Data.DataGenerator;
+import ru.netology.patternsdatachange.data.DataGenerator;
 
 
 import java.time.Duration;
