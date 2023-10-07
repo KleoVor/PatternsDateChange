@@ -1,5 +1,26 @@
 [![Java CI with Gradle](https://github.com/KleoVor/PatternsDateChange/actions/workflows/gradle.yml/badge.svg)](https://github.com/KleoVor/PatternsDateChange/actions/workflows/gradle.yml)
 
+![image](https://github.com/KleoVor/PatternsDateChange/assets/121848826/2d35b2fa-86fb-4427-aa3c-cdd8c60e0cf7)
+
+![image](https://github.com/KleoVor/PatternsDateChange/assets/121848826/97ba1718-423b-4b66-8901-183fc18dee01)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Задача №1: заказ доставки карты (изменение даты)
 Вам необходимо автоматизировать тестирование новой функции формы заказа доставки карты:
 ![image](https://github.com/KleoVor/PatternsDateChange/assets/121848826/227c730e-66ea-4633-bb1b-43ca038bdcc1)
